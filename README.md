@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Abhishek Khatri, working at startup as Frontend Lead | Frontend developer💻. 
+I am Abhishek Khatri, working at a startup as Frontend Lead | Frontend developer.💻
 
 
 - 🔭 I’m currently working on Angular 2+, Nodejs and GraphQL.
@@ -9,4 +9,5 @@ I am Abhishek Khatri, working at startup as Frontend Lead | Frontend developer�
 - 💬 Read out my blogs on [Medium](https://medium.com/@abhikhatri67)
 
 ### 📫 Reach out to me
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/abhikhatri67/)
+[Twitter](https://www.twitter.com/in/abhikhatri67/)
+[LinkedIn](https://www.linkedin.com/in/abhikhatri67/)
