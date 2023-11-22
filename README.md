@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Abhishek Khatri, working at a startup as Software Developer.💻
+I am Abhishek Khatri, working at a startup as a Software Developer.💻
 
 
 - 🔭 I’m working on React, Angular 2+, Nodejs and GraphQL.
